@@ -97,15 +97,17 @@ A synthetic binary classification dataset generated using Scikit-Learn to demons
 
 ---
 
-## 🏁 Conclusion
-
-Using the Sigmoid function with the Perceptron Trick provides a clear understanding of how modern classification algorithms learn. This project bridges the gap between the traditional Perceptron and Logistic Regression by introducing probability-based predictions and gradient-driven optimization.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Using the Sigmoid function with the Perceptron Trick provides a clear understanding of how modern classification algorithms learn. This project bridges the gap between the traditional Perceptron and Logistic Regression by introducing probability-based predictions and gradient-driven optimization.
+
+
